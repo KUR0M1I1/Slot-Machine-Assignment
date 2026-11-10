@@ -5,7 +5,7 @@ Product name- Muskaan Slot Machine
 --
 Assignment for Underpin Services.
 --
-There are two builds uploaded. The first one is made from the provided assets given by the company. The second build, is the final uploaded build with a different background and added sound effects.
+The game is made with the assets provided by the company, excluding - the background (I sourced that one myself) and also the sound effects.
 --
 Directions to run the WebGl ↓
 
