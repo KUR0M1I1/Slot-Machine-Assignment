@@ -1,4 +1,4 @@
-# Slot Machine - Made by M.S *
+# Slot Machine - Made by M.S 
 --
 Company- KUR0M1
 Product name- Muskaan Slot Machine
